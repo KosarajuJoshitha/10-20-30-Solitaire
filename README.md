@@ -92,7 +92,3 @@ This project successfully demonstrates the implementation of the **10-20-30 Soli
 ---
 
 ⭐ If you like this project, don’t forget to star the repository!
-
-
-Just tell me 😊
-```

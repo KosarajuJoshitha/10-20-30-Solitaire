@@ -1,9 +1,3 @@
-Perfect 👍 I understand now.
-You want a **README in the SAME FORMAT & DETAIL** as your **Sign-Language-Detection README**, but **for the 10-20-30 Solitaire game**.
-
-Below is **ONE COMPLETE README.md** written in that exact style.
-You can **directly copy-paste** this into your **10-20-30-Solitaire GitHub repo**.
-
 10-20-30 Solitaire
 
 📌 Overview  
@@ -72,22 +66,6 @@ The final score depends on the number of cards removed.
 
 ---
 
-🚀 How to Run the Project  
-
-✅ 1. Clone the Repository  
-```bash
-git clone https://github.com/KosarajuJoshitha/10-20-30-Solitaire.git
-cd 10-20-30-Solitaire
-````
-
-✅ 2. Run the Game
-
-```bash
-python main.py
-```
-
----
-
 🌟 Features
 
 ✔ Logical implementation of classic solitaire rules
@@ -95,14 +73,6 @@ python main.py
 ✔ No external libraries required
 ✔ Beginner-friendly Python project
 ✔ Clean and readable code structure
-
----
-
-📉 Limitations
-
-Console-based interface (no GUI)
-Limited to standard 10-20-30 rules
-No score persistence between sessions
 
 ---
 
